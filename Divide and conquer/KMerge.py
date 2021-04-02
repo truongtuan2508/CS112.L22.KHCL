@@ -1,1 +1,1 @@
-print("a")
+#print("Phần thử thứ k nếu merge mảng")
