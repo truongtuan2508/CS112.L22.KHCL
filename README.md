@@ -1,4 +1,4 @@
-# CS114.L21.KHCL - Algorithm analysis and Design - UIT
+# CS112.L22.KHCL- Algorithm analysis and Design - UIT
 
 ## MỤC LỤC
 - [Giới thiệu](#giới-thiệu)
