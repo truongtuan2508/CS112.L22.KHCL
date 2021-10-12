@@ -15,6 +15,7 @@
 ## THÀNH VIÊN NHÓM
 |STT| Họ Tên | MSSV| Email | Github |
 |--------------|-------|------|-------|-------|
-
+| 1 | |  |  |  | |
+| 2 | |  || | |
 | 1 |Trương Văn Tuấn | 19522486 | 19522486@gm.uit.edu.vn | [truongtuan2508](https://github.com/truongtuan2508)
 
